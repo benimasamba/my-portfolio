@@ -1,6 +1,6 @@
 # Excel projects
 
-# Bike Sales Dashboard: Analyzing Purchase Trends with Excel (2023) 🚴‍♂️
+# 1.Bike Sales Dashboard: Analyzing Purchase Trends with Excel (2023) 🚴‍♂️
 
 Hey there! I kicked off my data analytics journey with this cool "Bike Sales Dashboard" project, diving into a dataset that tracks bike purchases and customer details. After cleaning it up and exploring the data, I built an interactive dashboard in Excel to uncover insights about income, commute habits, and age demographics. Let’s roll through what I did!
 
@@ -34,7 +34,11 @@ Hey there! I kicked off my data analytics journey with this cool "Bike Sales Das
 
   ![Chart of Job Salaries](/Project1-assets/final-dashboard.png 'Bike sales dashboard.')
 
-  [DASHBOARD PDF](Project1-assets/project1-graphs.pdf).
+  [Check out the dashboard (attached as a pdf)](Project1-assets/project1-graphs.pdf)
+
+  [Excel Workbook](Project1-assets/bike-sales-dashboard0.xlsx)
+
+  
 
 ## Tools & Skills 🛠️
 - **Excel**: Data cleaning, table creation, pivot tables, charts, and slicers.
@@ -47,4 +51,35 @@ Hey there! I kicked off my data analytics journey with this cool "Bike Sales Das
 
 This project showcases my ability to clean data, build interactive visualizations, and deliver insights that matter. I’m excited to bring this enthusiasm and skill set to a data analyst role—let’s connect to discuss how I can contribute to your team! 📊
 
-[Check out the dashboard (attached as Bike Sales Dashboard2.pdf)](#)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 2.Data Job Listings Analysis: Uncovering Insights into Salaries, Trends, and Opportunities (2023) 🚀
+
+## What I Did 🔥
+- **Data Cleaning & Prep**: Started by wrangling the dataset in Excel—removed duplicates to ensure clean, reliable data, and built pivot tables to summarize key metrics.
+- **Exploratory Analysis**: Used Excel to calculate averages and counts, creating a first-draft dashboard to shape my vision for the final product.
+- **Tableau Visualizations**: Brought the data to life with three impactful graphs in Tableau:
+  - **"What Data Job Has the Salary?"**: Showcased the *average yearly salary* by job title, revealing that Senior Data Scientists lead the pack at $154,093/year, while Data Analysts average $91,217.
+  - **"Which Data-Related Job Has the Highest Postings?"**: Highlighted the *percentage of total job postings* by title—Data Analysts dominate at over 25%, followed by Data Scientists and Data Engineers.
+  - **"How Are Jobs Trending Over Time?"**: Tracked *monthly job posting counts* in 2023, uncovering a peak of 3,554 postings in July and a dip to 1,963 in October.
+
+## The Final Dashboard 🎨
+I combined these visualizations into a sleek Tableau dashboard titled **"Data Job Insights: Salaries, Trends, and Postings (2023)"**. This dashboard provides a clear, at-a-glance view of salary benchmarks, hiring trends, and in-demand roles—perfect for anyone navigating the data job market.
+
+Here is the dashboard :
+
+  ![Chart of Job Salaries](Project2-assets/p2.png 'Data job insights dashboard.')
+
+## Tools & Skills 🛠️
+- **Excel**: Data cleaning, pivot tables, and initial calculations.
+- **Tableau**: Advanced visualization and dashboard creation.
+- **Analytical Thinking**: Translated raw data into meaningful insights for decision-making.
+
+## Key Takeaways 🌟
+- Senior Data Scientists command the highest salaries, making it a lucrative career path.
+- Data Analysts are in high demand, accounting for over 25% of job postings.
+- Job postings fluctuate throughout the year, with a notable spike mid-2023—great for timing job applications!
+
+This project showcases my ability to clean, analyze, and visualize large datasets to uncover trends that matter. I’m passionate about turning data into stories that drive decisions—let’s connect to explore how I can bring this energy to your team! 💼
+
+[View the dashboard on Tableau Public](https://public.tableau.com/views/DATAJOBPOSTINGINSIGHTS2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
