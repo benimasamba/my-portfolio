@@ -13,17 +13,17 @@ Hey there! I kicked off my data analytics journey with this cool "Bike Sales Das
   
   - **Average Income per Purchase**: Plotted *Gender* on the axis, the *average of Income* in values, and *Purchased Bike (Yes/No)* in the legend. This bar chart shows how income varies by gender and purchase behavior.
     
-    ![Chart of Job Salaries](/Project1-assets/f1.png 'Bar graph showing average income of purchase.')
+    ![AVERAGE INCOME OF PURCHASE](/Project1-assets/f1.png 'Bar graph showing average income of purchase.')
  
     
   
   - **Customer Commute**: Built a double line graph with *Commute Distance* on the axis, *count of Purchased Bike* in values, and *Purchased Bike (Yes/No)* in the legend. It reveals how commute distance influences bike purchases.
  
-    ![Chart of Job Salaries](/Project1-assets/f2.png 'line graph showing customer commute distance.')
+    ![CUSROMER COMMUTE DISTANCE](/Project1-assets/f2.png 'line graph showing customer commute distance.')
    
   - **Customer Age Bracket**: Created a bar chart with *Age Brackets* on the axis, *count of Purchased Bike* in values, and *Purchased Bike (Yes/No)* in the legend. This highlights which age groups are buying bikes.
 
- ![Chart of Job Salaries](/Project1-assets/f3.png 'line graph showing customer age groups.')
+ ![CUSTOMER AGE GROUPS](/Project1-assets/f3.png 'line graph showing customer age groups.')
     
     
     
@@ -32,7 +32,7 @@ Hey there! I kicked off my data analytics journey with this cool "Bike Sales Das
   
      Here is the dashboard :
 
-  ![Chart of Job Salaries](/Project1-assets/final-dashboard.png 'Bike sales dashboard.')
+  ![BIKE SALES DASHBOARD](/Project1-assets/final-dashboard.png 'Bike sales dashboard.')
 
   [Check out the dashboard (attached as a pdf)](Project1-assets/project1-graphs.pdf)
 
