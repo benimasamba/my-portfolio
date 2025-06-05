@@ -1,6 +1,6 @@
-# Excel projects
+# Projects
 
-# 1.Bike Sales Dashboard: Analyzing Purchase Trends with Excel (2023) 🚴‍♂️
+# 1.Bike Sales Dashboard 🚴‍♂️
 
 Hey there! I kicked off my data analytics journey with this cool "Bike Sales Dashboard" project, diving into a dataset that tracks bike purchases and customer details. After cleaning it up and exploring the data, I built an interactive dashboard in Excel to uncover insights about income, commute habits, and age demographics. Let’s roll through what I did!
 
@@ -53,7 +53,7 @@ This project showcases my ability to clean data, build interactive visualization
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 2.Data Job Listings Analysis: Uncovering Insights into Salaries, Trends, and Opportunities (2023) 🚀
+# 2.Data Job Listings Analysis 🚀
 
 ## What I Did 🔥
 - **Data Cleaning & Prep**: Started by wrangling the dataset in Excel—removed duplicates to ensure clean, reliable data, and built pivot tables to summarize key metrics.
@@ -69,6 +69,8 @@ I combined these visualizations into a sleek Tableau dashboard titled **"Data Jo
 Here is the dashboard :
 
   ![Chart of Job Salaries](Project2-assets/p2.png 'Data job insights dashboard.')
+
+  [Excel Workbook](Project2-assets/PROJECT2(mine)FINAL20.xlsx 'dataset.')
 
 ## Tools & Skills 🛠️
 - **Excel**: Data cleaning, pivot tables, and initial calculations.
