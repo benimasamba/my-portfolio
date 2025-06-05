@@ -9,22 +9,32 @@ Hey there! I kicked off my data analytics journey with this cool "Bike Sales Das
   
 
 - **Pivot Table Magic**: Used pivot tables to create three key visualizations:
+
+  
   - **Average Income per Purchase**: Plotted *Gender* on the axis, the *average of Income* in values, and *Purchased Bike (Yes/No)* in the legend. This bar chart shows how income varies by gender and purchase behavior.
     
-    ![Chart of Job Salaries](/project1 assets/f3.png)
+    ![Chart of Job Salaries](/Project1-assets/f1.png 'Bar graph showing average income of purchase.')
  
     
-    *Insert picture here*
+  
   - **Customer Commute**: Built a double line graph with *Commute Distance* on the axis, *count of Purchased Bike* in values, and *Purchased Bike (Yes/No)* in the legend. It reveals how commute distance influences bike purchases.
  
-    
-    *Insert picture here*
+    ![Chart of Job Salaries](/Project1-assets/f2.png 'line graph showing customer commute distance.')
+   
   - **Customer Age Bracket**: Created a bar chart with *Age Brackets* on the axis, *count of Purchased Bike* in values, and *Purchased Bike (Yes/No)* in the legend. This highlights which age groups are buying bikes.
- 
+
+ ![Chart of Job Salaries](/Project1-assets/f3.png 'line graph showing customer age groups.')
     
-    *Insert picture here*
+    
     
 - **Dashboard Creation**: Combined these charts into a dynamic "Bike Sales Dashboard" in Excel. I added slicers for *Marital Status*, *Education*, and *Region*—all fully functional, letting users filter the data and see real-time changes.
+
+  
+     Here is the dashboard :
+
+  ![Chart of Job Salaries](/Project1-assets/final-dashboard.png 'Bike sales dashboard.')
+
+  [DASHBOARD PDF](Project1-assets/project1-graphs.pdf).
 
 ## Tools & Skills 🛠️
 - **Excel**: Data cleaning, table creation, pivot tables, charts, and slicers.
